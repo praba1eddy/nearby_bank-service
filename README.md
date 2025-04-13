@@ -30,7 +30,6 @@ The service exposes a single REST endpoint that:
 
 ## 📦 API Endpoint
 
-```http
 GET http://localhost:8080/banks/nearby?zip=75201
 
 Setup Instructions
@@ -67,31 +66,3 @@ Would you also like:
 - `business/technical document` to submit to your manager?
 
 Let me know, and I’ll prep those for you too!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**
